@@ -203,6 +203,7 @@ namespace NorthWindConsole
                             Console.WriteLine("\"q\" to quit");
                             productChoice = Console.ReadLine();
                             Console.Clear();
+                            logger.Info($"Option {productChoice} selected");
 
                             if (productChoice == "1")
                             {
