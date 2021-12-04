@@ -1,0 +1,265 @@
+2021-11-08 08:29:05.0960|INFO|NorthWindConsole.Program|Program started
+2021-11-08 08:29:05.1296|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:00:40.3605|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:00:49.3523|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:03:55.9623|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:03:56.9584|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-08 09:04:59.9417|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:04:59.9417|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:24:43.9237|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:24:45.6705|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-08 09:25:06.1030|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-08 09:25:15.9893|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:25:15.9893|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:28:01.4611|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:28:02.3524|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-08 09:28:09.8610|ERROR|NorthWindConsole.Program|CategoryName : The CategoryName field is required.
+2021-11-08 09:29:46.5199|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:29:46.5199|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:29:51.4937|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:29:54.1109|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-08 09:30:03.1325|ERROR|NorthWindConsole.Program|CategoryName : YO - Enter the name!
+2021-11-08 09:30:05.6718|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:30:05.6718|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:34:17.7935|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:34:23.6598|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:34:23.6598|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:34:50.4066|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:34:51.7756|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-08 09:35:03.7031|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-08 09:35:11.5970|ERROR|NorthWindConsole.Program|CategoryName : Name exists
+2021-11-08 09:35:15.2784|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:35:15.2784|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:37:21.8156|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:37:23.2732|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-08 09:37:27.6791|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-08 09:37:29.6283|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:37:29.6283|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:38:47.5017|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:38:49.1003|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-08 09:38:51.9438|INFO|NorthWindConsole.Program|CategoryId 6 selected
+2021-11-08 09:38:59.6471|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:38:59.6471|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:39:59.7718|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:40:01.1048|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-08 09:40:10.2736|INFO|NorthWindConsole.Program|CategoryId 7 selected
+2021-11-08 09:40:17.9975|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:40:17.9975|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:42:38.6870|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:42:40.2406|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-08 09:42:44.8331|INFO|NorthWindConsole.Program|CategoryId 3 selected
+2021-11-08 09:43:07.7242|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-08 09:43:10.0746|INFO|NorthWindConsole.Program|CategoryId 2 selected
+2021-11-08 09:43:14.5401|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:43:14.5401|INFO|NorthWindConsole.Program|Program ended
+2021-11-08 09:45:26.9527|INFO|NorthWindConsole.Program|Program started
+2021-11-08 09:45:30.5875|INFO|NorthWindConsole.Program|Option 4 selected
+2021-11-08 09:45:50.9583|INFO|NorthWindConsole.Program|Option q selected
+2021-11-08 09:45:50.9583|INFO|NorthWindConsole.Program|Program ended
+2021-11-15 08:57:13.0819|INFO|NorthWindConsole.Program|Program started
+2021-11-15 08:57:14.5533|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:16.1572|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:17.1139|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:17.4160|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:17.6453|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:18.3454|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:18.8881|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:19.3401|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:20.3742|INFO|NorthWindConsole.Program|Option l selected
+2021-11-15 08:57:21.3841|INFO|NorthWindConsole.Program|Option l selected
+2021-11-15 08:57:23.2933|INFO|NorthWindConsole.Program|Option q selected
+2021-11-15 08:57:23.2933|INFO|NorthWindConsole.Program|Program ended
+2021-11-15 08:57:34.0989|INFO|NorthWindConsole.Program|Program started
+2021-11-15 08:57:34.8117|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-15 08:57:36.0172|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-15 08:57:36.8292|INFO|NorthWindConsole.Program|Option  selected
+2021-11-15 08:57:38.2903|INFO|NorthWindConsole.Program|Option q selected
+2021-11-15 08:57:38.2903|INFO|NorthWindConsole.Program|Program ended
+2021-11-18 16:46:17.1575|INFO|NorthWindConsole.Program|Program started
+2021-11-18 16:46:48.6687|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-18 16:47:02.0815|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-18 16:47:05.0769|INFO|NorthWindConsole.Program|CategoryId 1 selected
+2021-11-18 16:47:08.8028|INFO|NorthWindConsole.Program|Option q selected
+2021-11-18 16:47:08.8028|INFO|NorthWindConsole.Program|Program ended
+2021-11-18 18:54:23.6499|INFO|NorthWindConsole.Program|Program started
+2021-11-18 18:54:31.1389|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-18 18:54:41.8925|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-18 18:55:01.5596|INFO|NorthWindConsole.Program|Option q selected
+2021-11-18 18:55:01.5596|INFO|NorthWindConsole.Program|Program ended
+2021-11-18 19:07:54.9107|INFO|NorthWindConsole.Program|Program started
+2021-11-18 19:08:00.4747|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-18 19:08:07.5234|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-18 19:08:23.7322|INFO|NorthWindConsole.Program|Option 5 selected
+2021-11-18 19:08:26.0789|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-18 19:08:38.4847|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-18 19:08:40.2439|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-18 19:08:49.7376|INFO|NorthWindConsole.Program|Option q selected
+2021-11-18 19:08:49.7383|INFO|NorthWindConsole.Program|Program ended
+2021-11-18 19:12:31.2820|INFO|NorthWindConsole.Program|Program started
+2021-11-18 19:12:35.7382|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-18 19:13:02.0691|INFO|NorthWindConsole.Program|Validation passed
+2021-11-18 19:13:07.6728|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-18 19:13:18.4326|INFO|NorthWindConsole.Program|Option q selected
+2021-11-18 19:13:18.4326|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 08:06:01.7161|INFO|NorthWindConsole.Program|Program started
+2021-11-29 08:06:04.7875|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-29 08:06:10.7197|INFO|NorthWindConsole.Program|Option 2 selected
+2021-11-29 08:06:32.3158|INFO|NorthWindConsole.Program|Validation passed
+2021-11-29 08:06:35.6163|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-29 08:06:37.7373|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 08:06:37.7373|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 08:23:43.8563|INFO|NorthWindConsole.Program|Program started
+2021-11-29 08:23:51.7807|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 08:23:55.7266|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 08:24:00.5131|INFO|NorthWindConsole.Program|Option 5 selected
+2021-11-29 08:24:02.5620|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 08:24:06.2557|INFO|NorthWindConsole.Program|Product added - "Shrimp"
+2021-11-29 08:24:12.7464|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 08:24:14.2678|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 08:24:16.5813|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 08:24:16.5813|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 08:24:22.2997|INFO|NorthWindConsole.Program|Program started
+2021-11-29 08:24:33.2561|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 08:24:36.3884|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 08:24:38.5156|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 08:24:38.5156|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 08:44:31.6342|INFO|NorthWindConsole.Program|Program started
+2021-11-29 08:44:35.2659|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-29 08:44:56.0162|INFO|NorthWindConsole.Program|Validation passed
+2021-11-29 08:44:56.2701|INFO|NorthWindConsole.Program|Product (id: 78) updated
+2021-11-29 08:45:05.8791|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 08:45:07.6184|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 08:45:10.4004|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 08:45:10.4004|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 08:58:56.8859|INFO|NorthWindConsole.Program|Program started
+2021-11-29 08:59:00.3450|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:00:21.5233|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:00:21.5233|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:00:33.0245|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:00:35.8769|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:00:51.3102|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:00:51.5845|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:03:33.7129|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:03:35.7176|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:04:07.0450|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:04:07.0450|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:05:22.6113|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:05:24.1639|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-29 09:05:37.5283|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:05:37.5283|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:06:41.7491|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:06:43.7036|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:07:11.1505|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:07:11.1505|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:07:39.1173|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:07:41.6542|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:07:50.3351|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:07:50.3351|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:12:41.3183|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:12:43.3695|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:13:13.2918|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:13:13.2918|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:13:52.2362|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:13:53.4885|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:15:09.6825|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:15:09.6825|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:15:41.6451|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:15:42.6425|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:15:59.7517|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:15:59.7517|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 09:17:10.2628|INFO|NorthWindConsole.Program|Program started
+2021-11-29 09:17:11.2040|INFO|NorthWindConsole.Program|Option 7 selected
+2021-11-29 09:17:15.4171|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 09:17:15.4171|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 19:47:24.4569|INFO|NorthWindConsole.Program|Program started
+2021-11-29 19:47:36.5491|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 19:47:36.5627|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 19:51:06.2040|INFO|NorthWindConsole.Program|Program started
+2021-11-29 19:51:09.3536|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-29 19:51:35.0573|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:51:49.3658|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 19:52:03.6999|INFO|NorthWindConsole.Program|Option 1 selected
+2021-11-29 19:52:10.0437|INFO|NorthWindConsole.Program|Option 4 selected
+2021-11-29 19:52:32.9627|INFO|NorthWindConsole.Program|Option q selected
+2021-11-29 19:52:32.9627|INFO|NorthWindConsole.Program|Program ended
+2021-11-29 19:52:37.5619|INFO|NorthWindConsole.Program|Program started
+2021-11-29 19:52:40.3725|INFO|NorthWindConsole.Program|Option k selected
+2021-11-29 19:52:41.1167|INFO|NorthWindConsole.Program|Option k selected
+2021-11-29 19:52:42.4395|INFO|NorthWindConsole.Program|Option nb selected
+2021-11-29 19:52:44.0747|INFO|NorthWindConsole.Program|Option f selected
+2021-11-29 19:52:44.7783|INFO|NorthWindConsole.Program|Option g selected
+2021-11-29 19:52:45.0640|INFO|NorthWindConsole.Program|Option  selected
+2021-11-29 19:52:45.2693|INFO|NorthWindConsole.Program|Option g selected
+2021-11-29 19:52:45.4709|INFO|NorthWindConsole.Program|Option e selected
+2021-11-29 19:52:45.6646|INFO|NorthWindConsole.Program|Option y selected
+2021-11-29 19:52:45.9190|INFO|NorthWindConsole.Program|Option  selected
+2021-11-29 19:52:46.1729|INFO|NorthWindConsole.Program|Option b selected
+2021-11-29 19:52:46.4515|INFO|NorthWindConsole.Program|Option tb selected
+2021-11-29 19:52:46.7352|INFO|NorthWindConsole.Program|Option tb selected
+2021-11-29 19:52:47.0174|INFO|NorthWindConsole.Program|Option t selected
+2021-11-29 19:52:47.2763|INFO|NorthWindConsole.Program|Option h selected
+2021-11-29 19:52:47.5710|INFO|NorthWindConsole.Program|Option thtr selected
+2021-11-29 19:52:47.7798|INFO|NorthWindConsole.Program|Option h selected
+2021-11-29 19:52:48.0180|INFO|NorthWindConsole.Program|Option r selected
+2021-11-29 19:52:48.2717|INFO|NorthWindConsole.Program|Option ht selected
+2021-11-29 19:52:48.4796|INFO|NorthWindConsole.Program|Option nyt selected
+2021-11-29 19:52:48.7183|INFO|NorthWindConsole.Program|Option r selected
+2021-11-29 19:52:48.9377|INFO|NorthWindConsole.Program|Option  selected
+2021-11-29 19:52:49.1562|INFO|NorthWindConsole.Program|Option hr selected
+2021-11-29 19:52:49.3307|INFO|NorthWindConsole.Program|Option th selected
+2021-11-29 19:52:49.9169|INFO|NorthWindConsole.Program|Option r selected
+2021-11-29 19:52:58.2448|INFO|NorthWindConsole.Program|Option 5 selected
+2021-11-29 19:53:13.0803|INFO|NorthWindConsole.Program|CategoryId 9 selected
+2021-11-29 19:53:35.0702|INFO|NorthWindConsole.Program|Program started
+2021-11-29 19:53:38.1425|INFO|NorthWindConsole.Program|Option 5 selected
+2021-11-29 19:53:42.3384|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:53:51.4911|INFO|NorthWindConsole.Program|Product added - "Yogurt"
+2021-11-29 19:53:59.7692|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:54:02.8464|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:54:12.6945|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-29 19:54:41.0397|INFO|NorthWindConsole.Program|Validation passed
+2021-11-29 19:54:41.2104|INFO|NorthWindConsole.Program|Product (id: 78) updated
+2021-11-29 19:54:48.5261|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:54:50.7981|INFO|NorthWindConsole.Program|CategoryId 8 selected
+2021-11-29 19:54:54.5318|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-29 19:55:12.8071|INFO|NorthWindConsole.Program|Validation passed
+2021-11-29 19:55:12.9069|INFO|NorthWindConsole.Program|Product (id: 79) updated
+2021-11-29 19:55:17.4265|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:55:20.8218|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:55:32.2628|INFO|NorthWindConsole.Program|Option 6 selected
+2021-11-29 19:56:00.8441|INFO|NorthWindConsole.Program|Validation passed
+2021-11-29 19:56:00.9205|INFO|NorthWindConsole.Program|Product (id: 79) updated
+2021-11-29 19:56:06.9395|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:56:09.4949|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:56:14.1229|INFO|NorthWindConsole.Program|Option 5 selected
+2021-11-29 19:56:17.2110|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:56:21.3401|INFO|NorthWindConsole.Program|Product added - "Yogurt"
+2021-11-29 19:56:26.8596|INFO|NorthWindConsole.Program|Option 3 selected
+2021-11-29 19:56:29.6393|INFO|NorthWindConsole.Program|CategoryId 4 selected
+2021-11-29 19:56:35.5363|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:30:22.1122|INFO|NorthWindConsole.Program|Program started
+2021-12-03 18:30:25.0166|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:31:02.4364|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 18:31:02.4364|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 18:33:03.4980|INFO|NorthWindConsole.Program|Program started
+2021-12-03 18:33:06.5205|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:34:55.2213|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 18:34:55.2213|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 18:42:38.9968|INFO|NorthWindConsole.Program|Program started
+2021-12-03 18:42:40.9265|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:43:03.2027|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 18:43:03.2027|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 18:43:14.7693|INFO|NorthWindConsole.Program|Program started
+2021-12-03 18:43:16.1934|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:43:35.8950|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 18:43:35.8950|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 18:43:57.4115|INFO|NorthWindConsole.Program|Program started
+2021-12-03 18:43:58.3446|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:44:25.4998|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 18:44:59.9289|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 18:44:59.9302|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 19:05:57.3536|INFO|NorthWindConsole.Program|Program started
+2021-12-03 19:06:00.2698|INFO|NorthWindConsole.Program|Option 4 selected
+2021-12-03 19:06:07.0081|INFO|NorthWindConsole.Program|Option 7 selected
+2021-12-03 19:06:14.5993|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 19:06:14.5993|INFO|NorthWindConsole.Program|Program ended
