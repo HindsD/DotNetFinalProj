@@ -106,8 +106,6 @@ namespace NorthWindConsole
                             }
                         }
                     }
-
-
                     else if (choice == "4")
                     {
                         var db = new Northwind_88_DWHContext();
@@ -127,7 +125,9 @@ namespace NorthWindConsole
                         Console.WriteLine($"{category.CategoryName} - {category.Description}");
                         foreach (Product p in category.Products)
                         {
-                            Console.WriteLine(p.ProductName);
+                            if (p.Discontinued == false){
+                                Console.WriteLine(p.ProductName);
+                            }
                         }
                     }
                     else if (choice == "5")
@@ -139,7 +139,9 @@ namespace NorthWindConsole
                             Console.WriteLine($"{item.CategoryName}");
                             foreach (Product p in item.Products)
                             {
-                                Console.WriteLine($"\t{p.ProductName}");
+                                if (p.Discontinued == false){
+                                    Console.WriteLine($"\t{p.ProductName}");
+                                }
                             }
                         }
                     }

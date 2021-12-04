@@ -283,3 +283,8 @@
 2021-12-03 19:34:58.1957|INFO|NorthWindConsole.Program|Option 1 selected
 2021-12-03 19:35:17.6178|INFO|NorthWindConsole.Program|Option q selected
 2021-12-03 19:35:17.6178|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 19:45:29.4475|INFO|NorthWindConsole.Program|Program started
+2021-12-03 19:45:39.1584|INFO|NorthWindConsole.Program|Option 8 selected
+2021-12-03 19:46:06.4374|INFO|NorthWindConsole.Program|Option 5 selected
+2021-12-03 19:46:33.4553|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 19:46:33.4553|INFO|NorthWindConsole.Program|Program ended
