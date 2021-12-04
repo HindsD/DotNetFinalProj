@@ -263,3 +263,15 @@
 2021-12-03 19:06:07.0081|INFO|NorthWindConsole.Program|Option 7 selected
 2021-12-03 19:06:14.5993|INFO|NorthWindConsole.Program|Option q selected
 2021-12-03 19:06:14.5993|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 19:13:03.5309|INFO|NorthWindConsole.Program|Program started
+2021-12-03 19:13:13.2035|INFO|NorthWindConsole.Program|Option 1 selected
+2021-12-03 19:13:26.9712|INFO|NorthWindConsole.Program|Option 2 selected
+2021-12-03 19:13:39.8774|INFO|NorthWindConsole.Program|Validation passed
+2021-12-03 19:13:40.0878|INFO|NorthWindConsole.Program|Category added - "Sweets"
+2021-12-03 19:13:45.5022|INFO|NorthWindConsole.Program|Option 1 selected
+2021-12-03 19:13:49.4135|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 19:13:49.4147|INFO|NorthWindConsole.Program|Program ended
+2021-12-03 19:13:54.2256|INFO|NorthWindConsole.Program|Program started
+2021-12-03 19:13:58.4828|INFO|NorthWindConsole.Program|Option 1 selected
+2021-12-03 19:14:01.9658|INFO|NorthWindConsole.Program|Option q selected
+2021-12-03 19:14:01.9658|INFO|NorthWindConsole.Program|Program ended

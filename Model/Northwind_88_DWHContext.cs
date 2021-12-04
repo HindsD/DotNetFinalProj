@@ -38,6 +38,12 @@ namespace NorthWindConsole.Model
             this.SaveChanges();
         }
 
+        public void AddCategory (Category category)
+        {
+            this.Categories.Add(category);
+            this.SaveChanges();
+        }
+
         public void EditProduct(Product updatedProduct)
         {
             Product product = this.Products.Find(updatedProduct.ProductId);

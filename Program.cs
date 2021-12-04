@@ -73,6 +73,11 @@ namespace NorthWindConsole
                             {
                                 logger.Info("Validation passed");
                                 // TODO: save category to db
+                                if (category != null)
+                                {
+                                    db.AddCategory(category);
+                                    logger.Info("Category added - {name}", category.CategoryName);
+                                }
                                 
                             }
                         }
